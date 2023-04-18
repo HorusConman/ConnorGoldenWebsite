@@ -1,0 +1,57 @@
+/* Style 1 - Font color: White, Font family: Montserrat */
+.style1 {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Style 2 - Font color: Light Blue, Font family: Open Sans */
+.style2 {
+    color: lightblue;
+    font-family: "Open Sans", sans-serif;
+}
+
+/* Style 3 - Font color: Light Grey, Font family: Roboto */
+.style3 {
+    color: lightgray;
+    font-family: "Roboto", sans-serif;
+}
+
+/* Style 4 - Font color: Pink, Font family: Lato */
+.style4 {
+    color: darkgray;
+    font-family: "Lato", sans-serif;
+}
+
+/* Position and styling of div 1 */
+#div1 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    padding: 10px;
+    background-color: #333;
+    /* Apply Style 1 */
+    /* Apply Style 2 */
+    /* Apply Style 3 */
+}
+
+/* Position and styling of div 2 */
+#div2 {
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    padding: 20px;
+    background-color: #666;
+    /* Apply Style 2 */
+    /* Apply Style 4 */
+}
+
+/* Position and styling of div 3 */
+#div3 {
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    padding: 30px;
+    background-color: #999;
+    /* Apply Style 3 */
+    /* Apply Style 4 */
+}
